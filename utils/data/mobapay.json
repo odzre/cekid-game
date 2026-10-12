@@ -1,0 +1,28 @@
+{
+   "data": [
+      {
+         "id": 5000,
+         "name": "Mobile Legends (Mobapay)",
+         "slug": "mobile-legends-mp",
+         "provider": "mobapay",
+         "isZone": true,
+         "appId": "100000"
+      },
+      {
+         "id": 5000,
+         "name": "Magic Chess (Mobapay)",
+         "slug": "magic-chess-mp",
+         "provider": "mobapay",
+         "isZone": true,
+         "appId": "124526"
+      },
+      {
+         "id": 5000,
+         "name": "Silver and Blood (Mobapay)",
+         "slug": "silver-and-blood-mp",
+         "provider": "mobapay",
+         "isZone": true,
+         "appId": "126694"
+      }
+   ]
+}

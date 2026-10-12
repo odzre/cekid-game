@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/vrlmmydl/wa.achillstore.web.id"
+PassengerBaseURI "/"
+PassengerNodejs "/home/vrlmmydl/nodevenv/wa.achillstore.web.id/20/bin/node"
+PassengerAppType node
+PassengerStartupFile index.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END

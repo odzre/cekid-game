@@ -1,0 +1,11 @@
+{
+   "data": [
+      {
+         "id": 5000,
+         "name": "+ 🗨️Lemo Chat",
+         "slug": "lemo-chat",
+         "provider": "lemochat",
+         "isZone": false
+      }
+   ]
+}

@@ -1,0 +1,2480 @@
+{
+  "data": [
+    {
+      "id": "78",
+      "name": "Angel Squad (DG)",
+      "slug": "angel-squad-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 717,
+      "product_ref_denom": "REG",
+      "catalogId": 1802,
+      "paymentChannel": 4512
+    },
+    {
+      "id": "4",
+      "name": "AoV (DG)",
+      "slug": "aov-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 18,
+      "product_ref_denom": "REG",
+      "catalogId": 73,
+      "paymentChannel": 6178
+    },
+    {
+      "id": "94",
+      "name": "Bleach Mobile 3D (DG)",
+      "slug": "bleach-mobile-3d-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "dropdown": [
+        {
+          "zoneId": "4231002",
+          "name": "BLEACH S2"
+        },
+        {
+          "zoneId": "4231003",
+          "name": "BLEACH S3"
+        },
+        {
+          "zoneId": "4231004",
+          "name": "BLEACH S4"
+        },
+        {
+          "zoneId": "4231005",
+          "name": "BLEACH S5"
+        },
+        {
+          "zoneId": "4231006",
+          "name": "BLEACH S6"
+        },
+        {
+          "zoneId": "4231007",
+          "name": "BLEACH S7"
+        },
+        {
+          "zoneId": "4231008",
+          "name": "BLEACH S8"
+        },
+        {
+          "zoneId": "4231009",
+          "name": "BLEACH S9"
+        },
+        {
+          "zoneId": "4231010",
+          "name": "BLEACH S10"
+        },
+        {
+          "zoneId": "4231011",
+          "name": "BLEACH S11"
+        },
+        {
+          "zoneId": "4231012",
+          "name": "BLEACH S12"
+        },
+        {
+          "zoneId": "4231013",
+          "name": "BLEACH S13"
+        },
+        {
+          "zoneId": "4231014",
+          "name": "BLEACH S14"
+        },
+        {
+          "zoneId": "4231015",
+          "name": "BLEACH S15"
+        },
+        {
+          "zoneId": "4231016",
+          "name": "BLEACH S16"
+        },
+        {
+          "zoneId": "4231017",
+          "name": "BLEACH S17"
+        },
+        {
+          "zoneId": "4231018",
+          "name": "BLEACH S18"
+        },
+        {
+          "zoneId": "4231019",
+          "name": "BLEACH S19"
+        },
+        {
+          "zoneId": "4231020",
+          "name": "BLEACH S20"
+        },
+        {
+          "zoneId": "4231021",
+          "name": "BLEACH S21"
+        },
+        {
+          "zoneId": "4231022",
+          "name": "BLEACH S22"
+        },
+        {
+          "zoneId": "4231023",
+          "name": "BLEACH S23"
+        },
+        {
+          "zoneId": "4231024",
+          "name": "BLEACH S24"
+        },
+        {
+          "zoneId": "4231025",
+          "name": "BLEACH S25"
+        },
+        {
+          "zoneId": "4231026",
+          "name": "BLEACH S26"
+        },
+        {
+          "zoneId": "4231027",
+          "name": "BLEACH S27"
+        },
+        {
+          "zoneId": "4231028",
+          "name": "BLEACH S28"
+        },
+        {
+          "zoneId": "4231029",
+          "name": "BLEACH S29"
+        },
+        {
+          "zoneId": "4231030",
+          "name": "BLEACH S30"
+        },
+        {
+          "zoneId": "4231031",
+          "name": "BLEACH S31"
+        },
+        {
+          "zoneId": "4231032",
+          "name": "BLEACH S32"
+        },
+        {
+          "zoneId": "4231033",
+          "name": "BLEACH S33"
+        },
+        {
+          "zoneId": "4231034",
+          "name": "BLEACH S34"
+        },
+        {
+          "zoneId": "4231035",
+          "name": "BLEACH S35"
+        },
+        {
+          "zoneId": "4231036",
+          "name": "BLEACH S36"
+        },
+        {
+          "zoneId": "4231037",
+          "name": "BLEACH S37"
+        },
+        {
+          "zoneId": "4231038",
+          "name": "BLEACH S38"
+        },
+        {
+          "zoneId": "4231039",
+          "name": "BLEACH S39"
+        },
+        {
+          "zoneId": "4231040",
+          "name": "BLEACH S40"
+        },
+        {
+          "zoneId": "4231041",
+          "name": "BLEACH S41"
+        },
+        {
+          "zoneId": "4231042",
+          "name": "BLEACH S42"
+        },
+        {
+          "zoneId": "4231043",
+          "name": "BLEACH S43"
+        },
+        {
+          "zoneId": "4231044",
+          "name": "BLEACH S44"
+        },
+        {
+          "zoneId": "4231045",
+          "name": "BLEACH S45"
+        },
+        {
+          "zoneId": "4231046",
+          "name": "BLEACH S46"
+        },
+        {
+          "zoneId": "4231047",
+          "name": "BLEACH S47"
+        },
+        {
+          "zoneId": "4231048",
+          "name": "BLEACH S48"
+        },
+        {
+          "zoneId": "4231049",
+          "name": "BLEACH S49"
+        },
+        {
+          "zoneId": "4231050",
+          "name": "BLEACH S50"
+        },
+        {
+          "zoneId": "4231051",
+          "name": "BLEACH S51"
+        },
+        {
+          "zoneId": "4231052",
+          "name": "BLEACH S52"
+        },
+        {
+          "zoneId": "4231053",
+          "name": "BLEACH S53"
+        },
+        {
+          "zoneId": "4231054",
+          "name": "BLEACH S54"
+        },
+        {
+          "zoneId": "4231055",
+          "name": "BLEACH S55"
+        },
+        {
+          "zoneId": "4231056",
+          "name": "BLEACH S56"
+        },
+        {
+          "zoneId": "4231057",
+          "name": "BLEACH S57"
+        },
+        {
+          "zoneId": "4231058",
+          "name": "BLEACH S58"
+        },
+        {
+          "zoneId": "4231059",
+          "name": "BLEACH S59"
+        },
+        {
+          "zoneId": "4231060",
+          "name": "BLEACH S60"
+        },
+        {
+          "zoneId": "4231061",
+          "name": "BLEACH S61"
+        },
+        {
+          "zoneId": "4231062",
+          "name": "BLEACH S62"
+        },
+        {
+          "zoneId": "4231063",
+          "name": "BLEACH S63"
+        },
+        {
+          "zoneId": "4231064",
+          "name": "BLEACH S64"
+        },
+        {
+          "zoneId": "4231065",
+          "name": "BLEACH S65"
+        },
+        {
+          "zoneId": "4231066",
+          "name": "BLEACH S66"
+        },
+        {
+          "zoneId": "4231067",
+          "name": "BLEACH S67"
+        },
+        {
+          "zoneId": "4231068",
+          "name": "BLEACH S68"
+        },
+        {
+          "zoneId": "4231069",
+          "name": "BLEACH S69"
+        },
+        {
+          "zoneId": "4231070",
+          "name": "BLEACH S70"
+        },
+        {
+          "zoneId": "4231071",
+          "name": "BLEACH S71"
+        },
+        {
+          "zoneId": "4231072",
+          "name": "BLEACH S72"
+        },
+        {
+          "zoneId": "4231073",
+          "name": "BLEACH S73"
+        },
+        {
+          "zoneId": "4231074",
+          "name": "BLEACH S74"
+        },
+        {
+          "zoneId": "4231075",
+          "name": "BLEACH S75"
+        },
+        {
+          "zoneId": "4231076",
+          "name": "BLEACH S76"
+        },
+        {
+          "zoneId": "4231077",
+          "name": "BLEACH S77"
+        },
+        {
+          "zoneId": "4231078",
+          "name": "BLEACH S78"
+        },
+        {
+          "zoneId": "4231079",
+          "name": "BLEACH S79"
+        },
+        {
+          "zoneId": "4231080",
+          "name": "BLEACH S80"
+        },
+        {
+          "zoneId": "4231081",
+          "name": "BLEACH S81"
+        },
+        {
+          "zoneId": "4231082",
+          "name": "BLEACH S82"
+        },
+        {
+          "zoneId": "4231083",
+          "name": "BLEACH S83"
+        },
+        {
+          "zoneId": "4231084",
+          "name": "BLEACH S84"
+        },
+        {
+          "zoneId": "4231085",
+          "name": "BLEACH S85"
+        },
+        {
+          "zoneId": "4231086",
+          "name": "BLEACH S86"
+        },
+        {
+          "zoneId": "4231087",
+          "name": "BLEACH S87"
+        },
+        {
+          "zoneId": "4231088",
+          "name": "BLEACH S88"
+        },
+        {
+          "zoneId": "4231089",
+          "name": "BLEACH S89"
+        },
+        {
+          "zoneId": "4231090",
+          "name": "BLEACH S90"
+        },
+        {
+          "zoneId": "4231091",
+          "name": "BLEACH S91"
+        },
+        {
+          "zoneId": "4231092",
+          "name": "BLEACH S92"
+        },
+        {
+          "zoneId": "4231093",
+          "name": "BLEACH S93"
+        },
+        {
+          "zoneId": "4231094",
+          "name": "BLEACH S94"
+        },
+        {
+          "zoneId": "4231095",
+          "name": "BLEACH S95"
+        },
+        {
+          "zoneId": "4231096",
+          "name": "BLEACH S96"
+        },
+        {
+          "zoneId": "4231097",
+          "name": "BLEACH S97"
+        },
+        {
+          "zoneId": "4231098",
+          "name": "BLEACH S98"
+        },
+        {
+          "zoneId": "4231099",
+          "name": "BLEACH S99"
+        },
+        {
+          "zoneId": "4231100",
+          "name": "BLEACH S100"
+        },
+        {
+          "zoneId": "4231101",
+          "name": "BLEACH S101"
+        },
+        {
+          "zoneId": "4231102",
+          "name": "BLEACH S102"
+        },
+        {
+          "zoneId": "4231103",
+          "name": "BLEACH S103"
+        },
+        {
+          "zoneId": "4231104",
+          "name": "BLEACH S104"
+        },
+        {
+          "zoneId": "4231105",
+          "name": "BLEACH S105"
+        },
+        {
+          "zoneId": "4231106",
+          "name": "BLEACH S106"
+        },
+        {
+          "zoneId": "4231107",
+          "name": "BLEACH S107"
+        },
+        {
+          "zoneId": "4231108",
+          "name": "BLEACH S108"
+        },
+        {
+          "zoneId": "4231109",
+          "name": "BLEACH S109"
+        },
+        {
+          "zoneId": "4231110",
+          "name": "BLEACH S110"
+        },
+        {
+          "zoneId": "4231111",
+          "name": "BLEACH S111"
+        },
+        {
+          "zoneId": "4231112",
+          "name": "BLEACH S112"
+        },
+        {
+          "zoneId": "4231113",
+          "name": "BLEACH S113"
+        },
+        {
+          "zoneId": "4231114",
+          "name": "BLEACH S114"
+        },
+        {
+          "zoneId": "4231115",
+          "name": "BLEACH S115"
+        },
+        {
+          "zoneId": "4231116",
+          "name": "BLEACH S116"
+        },
+        {
+          "zoneId": "4231117",
+          "name": "BLEACH S117"
+        },
+        {
+          "zoneId": "4231118",
+          "name": "BLEACH S118"
+        },
+        {
+          "zoneId": "4231201",
+          "name": "BLEACH TH 1"
+        },
+        {
+          "zoneId": "4231202",
+          "name": "BLEACH TH 2"
+        },
+        {
+          "zoneId": "4231203",
+          "name": "BLEACH TH 3"
+        },
+        {
+          "zoneId": "4231204",
+          "name": "BLEACH TH 4"
+        },
+        {
+          "zoneId": "4231205",
+          "name": "BLEACH TH 5"
+        },
+        {
+          "zoneId": "4231206",
+          "name": "BLEACH TH 6"
+        },
+        {
+          "zoneId": "4231207",
+          "name": "BLEACH TH 7"
+        },
+        {
+          "zoneId": "4231208",
+          "name": "BLEACH TH 8"
+        },
+        {
+          "zoneId": "4231209",
+          "name": "BLEACH TH 9"
+        },
+        {
+          "zoneId": "4231210",
+          "name": "BLEACH TH 10"
+        },
+        {
+          "zoneId": "4231211",
+          "name": "BLEACH TH 11"
+        },
+        {
+          "zoneId": "4231212",
+          "name": "BLEACH TH 12"
+        },
+        {
+          "zoneId": "4231213",
+          "name": "BLEACH TH 13"
+        },
+        {
+          "zoneId": "4231214",
+          "name": "BLEACH TH 14"
+        },
+        {
+          "zoneId": "4231215",
+          "name": "BLEACH TH 15"
+        },
+        {
+          "zoneId": "4231216",
+          "name": "BLEACH TH 16"
+        },
+        {
+          "zoneId": "4231217",
+          "name": "BLEACH TH 17"
+        },
+        {
+          "zoneId": "4231218",
+          "name": "BLEACH TH 18"
+        },
+        {
+          "zoneId": "4231219",
+          "name": "BLEACH TH 19"
+        },
+        {
+          "zoneId": "4231220",
+          "name": "BLEACH TH 20"
+        },
+        {
+          "zoneId": "4231221",
+          "name": "BLEACH TH 21"
+        },
+        {
+          "zoneId": "4231222",
+          "name": "BLEACH TH 22"
+        },
+        {
+          "zoneId": "4231223",
+          "name": "BLEACH TH 23"
+        },
+        {
+          "zoneId": "4231224",
+          "name": "BLEACH TH 24"
+        },
+        {
+          "zoneId": "4231225",
+          "name": "BLEACH TH 25"
+        },
+        {
+          "zoneId": "4231226",
+          "name": "BLEACH TH 26"
+        },
+        {
+          "zoneId": "4231227",
+          "name": "BLEACH TH 27"
+        },
+        {
+          "zoneId": "4231228",
+          "name": "BLEACH TH 28"
+        },
+        {
+          "zoneId": "4231229",
+          "name": "BLEACH TH 29"
+        },
+        {
+          "zoneId": "4231230",
+          "name": "BLEACH TH 30"
+        },
+        {
+          "zoneId": "4231231",
+          "name": "BLEACH TH 31"
+        },
+        {
+          "zoneId": "4231232",
+          "name": "BLEACH TH 32"
+        },
+        {
+          "zoneId": "4231233",
+          "name": "BLEACH TH 33"
+        },
+        {
+          "zoneId": "4231234",
+          "name": "BLEACH TH 34"
+        },
+        {
+          "zoneId": "4231235",
+          "name": "BLEACH TH 35"
+        },
+        {
+          "zoneId": "4231236",
+          "name": "BLEACH TH 36"
+        },
+        {
+          "zoneId": "4231237",
+          "name": "BLEACH TH 37"
+        },
+        {
+          "zoneId": "4231238",
+          "name": "BLEACH TH 38"
+        },
+        {
+          "zoneId": "4231239",
+          "name": "BLEACH TH 39"
+        },
+        {
+          "zoneId": "4231240",
+          "name": "BLEACH TH 40"
+        },
+        {
+          "zoneId": "4231241",
+          "name": "BLEACH TH 41"
+        },
+        {
+          "zoneId": "4231242",
+          "name": "BLEACH TH 42"
+        },
+        {
+          "zoneId": "4231243",
+          "name": "BLEACH TH 43"
+        },
+        {
+          "zoneId": "4231244",
+          "name": "BLEACH TH 44"
+        },
+        {
+          "zoneId": "4231245",
+          "name": "BLEACH TH 45"
+        },
+        {
+          "zoneId": "4231246",
+          "name": "BLEACH TH 46"
+        },
+        {
+          "zoneId": "4231247",
+          "name": "BLEACH TH 47"
+        },
+        {
+          "zoneId": "4231248",
+          "name": "BLEACH TH 48"
+        },
+        {
+          "zoneId": "4231249",
+          "name": "BLEACH TH 49"
+        },
+        {
+          "zoneId": "4231250",
+          "name": "BLEACH TH 50"
+        },
+        {
+          "zoneId": "4231251",
+          "name": "BLEACH TH 51"
+        },
+        {
+          "zoneId": "4231252",
+          "name": "BLEACH TH 52"
+        },
+        {
+          "zoneId": "4231253",
+          "name": "BLEACH TH 53"
+        },
+        {
+          "zoneId": "4231254",
+          "name": "BLEACH TH 54"
+        },
+        {
+          "zoneId": "4231255",
+          "name": "BLEACH TH 55"
+        },
+        {
+          "zoneId": "4231256",
+          "name": "BLEACH TH 56"
+        },
+        {
+          "zoneId": "4231257",
+          "name": "BLEACH TH 57"
+        },
+        {
+          "zoneId": "4231258",
+          "name": "BLEACH TH 58"
+        },
+        {
+          "zoneId": "4231259",
+          "name": "BLEACH TH 59"
+        },
+        {
+          "zoneId": "4231260",
+          "name": "BLEACH TH 60"
+        },
+        {
+          "zoneId": "4231261",
+          "name": "BLEACH TH 61"
+        },
+        {
+          "zoneId": "4231262",
+          "name": "BLEACH TH 62"
+        },
+        {
+          "zoneId": "4231263",
+          "name": "BLEACH TH 63"
+        },
+        {
+          "zoneId": "4231301",
+          "name": "BLEACH PH 1"
+        },
+        {
+          "zoneId": "4231302",
+          "name": "BLEACH PH 2"
+        },
+        {
+          "zoneId": "4231303",
+          "name": "BLEACH PH 3"
+        },
+        {
+          "zoneId": "4231304",
+          "name": "BLEACH PH 4"
+        },
+        {
+          "zoneId": "4231305",
+          "name": "BLEACH PH 5"
+        },
+        {
+          "zoneId": "4231306",
+          "name": "BLEACH PH 6"
+        },
+        {
+          "zoneId": "4231307",
+          "name": "BLEACH PH 7"
+        },
+        {
+          "zoneId": "4231308",
+          "name": "BLEACH PH 8"
+        },
+        {
+          "zoneId": "4231309",
+          "name": "BLEACH PH 9"
+        },
+        {
+          "zoneId": "4231310",
+          "name": "BLEACH PH 10"
+        },
+        {
+          "zoneId": "4231381",
+          "name": "BLEACH PH1~3"
+        },
+        {
+          "zoneId": "4231382",
+          "name": "BLEACH PH4~10"
+        },
+        {
+          "zoneId": "4231401",
+          "name": "BLEACH ID 1"
+        },
+        {
+          "zoneId": "4231402",
+          "name": "BLEACH ID 2"
+        },
+        {
+          "zoneId": "4231403",
+          "name": "BLEACH ID 3"
+        },
+        {
+          "zoneId": "4231404",
+          "name": "BLEACH ID 4"
+        },
+        {
+          "zoneId": "4231405",
+          "name": "BLEACH ID 5"
+        },
+        {
+          "zoneId": "4231406",
+          "name": "BLEACH ID 6"
+        },
+        {
+          "zoneId": "4231407",
+          "name": "BLEACH ID 7"
+        },
+        {
+          "zoneId": "4231408",
+          "name": "BLEACH ID 8"
+        },
+        {
+          "zoneId": "4231409",
+          "name": "BLEACH ID 9"
+        },
+        {
+          "zoneId": "4231410",
+          "name": "BLEACH ID 10"
+        },
+        {
+          "zoneId": "4231411",
+          "name": "BLEACH ID 11"
+        },
+        {
+          "zoneId": "4231412",
+          "name": "BLEACH ID 12"
+        },
+        {
+          "zoneId": "4231413",
+          "name": "BLEACH ID 13"
+        },
+        {
+          "zoneId": "4231414",
+          "name": "BLEACH ID 14"
+        },
+        {
+          "zoneId": "4231415",
+          "name": "BLEACH ID 15"
+        },
+        {
+          "zoneId": "4231416",
+          "name": "BLEACH ID 16"
+        },
+        {
+          "zoneId": "4231417",
+          "name": "BLEACH ID 17"
+        },
+        {
+          "zoneId": "4231418",
+          "name": "BLEACH ID 18"
+        },
+        {
+          "zoneId": "4231419",
+          "name": "BLEACH ID 19"
+        },
+        {
+          "zoneId": "4231481",
+          "name": "BLEACH ID 1~4"
+        },
+        {
+          "zoneId": "4231482",
+          "name": "BLEACH ID 5~8"
+        },
+        {
+          "zoneId": "4231483",
+          "name": "BLEACH ID 9~13"
+        },
+        {
+          "zoneId": "4231484",
+          "name": "BLEACH ID 14~16"
+        },
+        {
+          "zoneId": "4231485",
+          "name": "BLEACH ID 17~19"
+        },
+        {
+          "zoneId": "4231501",
+          "name": "BLEACH M1"
+        },
+        {
+          "zoneId": "4231502",
+          "name": "BLEACH M2"
+        },
+        {
+          "zoneId": "4231503",
+          "name": "BLEACH M3"
+        },
+        {
+          "zoneId": "4231504",
+          "name": "BLEACH M4"
+        },
+        {
+          "zoneId": "4231505",
+          "name": "BLEACH M5"
+        },
+        {
+          "zoneId": "4231506",
+          "name": "BLEACH M6"
+        },
+        {
+          "zoneId": "4231507",
+          "name": "BLEACH M7"
+        },
+        {
+          "zoneId": "4231508",
+          "name": "BLEACH M8"
+        },
+        {
+          "zoneId": "4231509",
+          "name": "BLEACH M9"
+        },
+        {
+          "zoneId": "4231510",
+          "name": "BLEACH M10"
+        },
+        {
+          "zoneId": "4231511",
+          "name": "BLEACH M11"
+        },
+        {
+          "zoneId": "4231512",
+          "name": "BLEACH M12"
+        },
+        {
+          "zoneId": "4231581",
+          "name": "BLEACH M1~4"
+        },
+        {
+          "zoneId": "4231582",
+          "name": "BLEACH M5~8"
+        },
+        {
+          "zoneId": "4231583",
+          "name": "BLEACH M9~12"
+        },
+        {
+          "zoneId": "4231601",
+          "name": "BLEACH VN 1"
+        },
+        {
+          "zoneId": "4231602",
+          "name": "BLEACH VN 2"
+        },
+        {
+          "zoneId": "4231603",
+          "name": "BLEACH VN 3"
+        },
+        {
+          "zoneId": "4231604",
+          "name": "BLEACH VN 4"
+        },
+        {
+          "zoneId": "4231605",
+          "name": "BLEACH VN 5"
+        },
+        {
+          "zoneId": "4231606",
+          "name": "BLEACH VN 6"
+        },
+        {
+          "zoneId": "4231681",
+          "name": "BLEACH VN1~6"
+        },
+        {
+          "zoneId": "4231701",
+          "name": "BLEACH SEA S1~S4"
+        },
+        {
+          "zoneId": "4231702",
+          "name": "BLEACH SEA S5~S8"
+        },
+        {
+          "zoneId": "4231703",
+          "name": "BLEACH SEA S9~S12"
+        },
+        {
+          "zoneId": "4231704",
+          "name": "BLEACH SEA S13~S16"
+        },
+        {
+          "zoneId": "4231705",
+          "name": "BLEACH SEA S17~S20"
+        },
+        {
+          "zoneId": "4231706",
+          "name": "BLEACH SEA S21~S24"
+        },
+        {
+          "zoneId": "4231707",
+          "name": "BLEACH SEA S25~S28"
+        },
+        {
+          "zoneId": "4231708",
+          "name": "BLEACH SEA S29~S32"
+        },
+        {
+          "zoneId": "4231709",
+          "name": "BLEACH SEA S33~S36"
+        },
+        {
+          "zoneId": "4231710",
+          "name": "BLEACH SEA S37~S40"
+        },
+        {
+          "zoneId": "4231711",
+          "name": "BLEACH SEA S41~S44"
+        },
+        {
+          "zoneId": "4231712",
+          "name": "BLEACH SEA S45~S48"
+        },
+        {
+          "zoneId": "4231713",
+          "name": "BLEACH SEA S49~S52"
+        },
+        {
+          "zoneId": "4231714",
+          "name": "BLEACH SEA S53~S56"
+        },
+        {
+          "zoneId": "4231715",
+          "name": "BLEACH SEA S57~S60"
+        },
+        {
+          "zoneId": "4231716",
+          "name": "BLEACH SEA S61~S64"
+        },
+        {
+          "zoneId": "4231717",
+          "name": "BLEACH SEA S65~S68"
+        },
+        {
+          "zoneId": "4231718",
+          "name": "BLEACH SEA S69~S72"
+        },
+        {
+          "zoneId": "4231719",
+          "name": "BLEACH SEA S73~S79"
+        },
+        {
+          "zoneId": "4231720",
+          "name": "BLEACH SEA S80~S86"
+        },
+        {
+          "zoneId": "4231721",
+          "name": "BLEACH SEA S87~S93"
+        },
+        {
+          "zoneId": "4231722",
+          "name": "BLEACH SEA S94~S100"
+        },
+        {
+          "zoneId": "4231751",
+          "name": "BLEACH SEA S1~S20"
+        },
+        {
+          "zoneId": "4231752",
+          "name": "BLEACH SEA S21~S48"
+        },
+        {
+          "zoneId": "4231801",
+          "name": "BLEACH TH S1~S4"
+        },
+        {
+          "zoneId": "4231802",
+          "name": "BLEACH TH S5~S8"
+        },
+        {
+          "zoneId": "4231803",
+          "name": "BLEACH TH S9~S12"
+        },
+        {
+          "zoneId": "4231804",
+          "name": "BLEACH TH S13~S16"
+        },
+        {
+          "zoneId": "4231805",
+          "name": "BLEACH TH S17~S20"
+        },
+        {
+          "zoneId": "4231806",
+          "name": "BLEACH TH S21~S24"
+        },
+        {
+          "zoneId": "4231807",
+          "name": "BLEACH TH S25~S31"
+        },
+        {
+          "zoneId": "4231808",
+          "name": "BLEACH TH S32~S38"
+        },
+        {
+          "zoneId": "4231809",
+          "name": "BLEACH TH S39~S45"
+        }
+      ],
+      "itemId": 894,
+      "product_ref_denom": "REG",
+      "catalogId": 2048,
+      "paymentChannel": 5095
+    },
+    {
+      "id": "115",
+      "name": "Blizzard Gift Card (DG)",
+      "slug": "blizzard-gift-card-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1122,
+      "product_ref_denom": "REG",
+      "catalogId": 2303,
+      "paymentChannel": 5662
+    },
+    {
+      "id": "149",
+      "name": "Blood Strike (DG)",
+      "slug": "blood-strike-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "dropdown": [
+        {
+          "zoneId": "-1",
+          "name": "Blood Strike"
+        }
+      ],
+      "itemId": 1654,
+      "product_ref_denom": "REG",
+      "catalogId": 2836,
+      "paymentChannel": 7577
+    },
+    {
+      "id": "18",
+      "name": "Call of Duty Mobile (DG)",
+      "slug": "call-of-duty-mobile-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 88,
+      "product_ref_denom": "REG",
+      "catalogId": 144,
+      "paymentChannel": 6081
+    },
+    {
+      "id": "180",
+      "name": "Cat Fantasy Majamojo (DG)",
+      "slug": "cat-fantasy-majamojo-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 2008,
+      "product_ref_denom": "REG",
+      "catalogId": 3186,
+      "paymentChannel": 8711
+    },
+    {
+      "id": "86",
+      "name": "Dragon Raja (DG)",
+      "slug": "dragon-raja-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 825,
+      "product_ref_denom": "REG",
+      "catalogId": 1983,
+      "paymentChannel": 4989
+    },
+    {
+      "id": "139",
+      "name": "EA Sports FC Mobile (DG)",
+      "slug": "ea-sports-fc-mobile-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1501,
+      "product_ref_denom": "REG",
+      "catalogId": 2681,
+      "paymentChannel": 6901
+    },
+    {
+      "id": "179",
+      "name": "ETE Chronicle (DG)",
+      "slug": "ete-chronicle-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1999,
+      "product_ref_denom": "REG",
+      "catalogId": 3177,
+      "paymentChannel": 8706
+    },
+    {
+      "id": "156",
+      "name": "Echocalypse (DG)",
+      "slug": "echocalypse-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "dropdown": [
+        {
+          "zoneId": "2971310113",
+          "name": "SEA112-Yarena"
+        },
+        {
+          "zoneId": "2971310112",
+          "name": "SEA-Niko"
+        },
+        {
+          "zoneId": "2971310111",
+          "name": "SEA-Raeon"
+        },
+        {
+          "zoneId": "2971310110",
+          "name": "SEA-Pan Pan"
+        },
+        {
+          "zoneId": "2971310109",
+          "name": "SEA-Zawa"
+        },
+        {
+          "zoneId": "2971310108",
+          "name": "SEA-Shiyu"
+        },
+        {
+          "zoneId": "2971310107",
+          "name": "SEA-Firentia"
+        },
+        {
+          "zoneId": "2971310106",
+          "name": "SEA-Sil"
+        },
+        {
+          "zoneId": "2971310105",
+          "name": "SEA-Yanling"
+        },
+        {
+          "zoneId": "2971310104",
+          "name": "SEA-Katch"
+        },
+        {
+          "zoneId": "2971310103",
+          "name": "SEA-Kiki"
+        },
+        {
+          "zoneId": "2971310102",
+          "name": "SEA-Xen"
+        },
+        {
+          "zoneId": "2971310101",
+          "name": "SEA-Nanook"
+        },
+        {
+          "zoneId": "2971310100",
+          "name": "SEA-Gura"
+        },
+        {
+          "zoneId": "2971310099",
+          "name": "SEA-Sova"
+        },
+        {
+          "zoneId": "2971310098",
+          "name": "SEA-Sasha"
+        },
+        {
+          "zoneId": "2971310097",
+          "name": "SEA-Camelia"
+        },
+        {
+          "zoneId": "2971310096",
+          "name": "SEA-Vivi"
+        },
+        {
+          "zoneId": "2971310095",
+          "name": "SEA-Audrey"
+        },
+        {
+          "zoneId": "2971310094",
+          "name": "SEA-Gryph"
+        },
+        {
+          "zoneId": "2971310093",
+          "name": "SEA-Kurain"
+        },
+        {
+          "zoneId": "2971310092",
+          "name": "SEA-Nightingale"
+        },
+        {
+          "zoneId": "2971310091",
+          "name": "SEA-Senko"
+        },
+        {
+          "zoneId": "2971310090",
+          "name": "SEA-Baphomet"
+        },
+        {
+          "zoneId": "2971310089",
+          "name": "SEA-Shelly"
+        },
+        {
+          "zoneId": "2971310088",
+          "name": "SEA-Pierrot"
+        },
+        {
+          "zoneId": "2971310087",
+          "name": "SEA-Valiant"
+        },
+        {
+          "zoneId": "2971310086",
+          "name": "SEA-Wheel of the Sun Chariot"
+        },
+        {
+          "zoneId": "2971310085",
+          "name": "SEA-Sting of Serket"
+        },
+        {
+          "zoneId": "2971310084",
+          "name": "SEA-Holy Grail"
+        },
+        {
+          "zoneId": "2971310083",
+          "name": "SEA-Gandiva"
+        },
+        {
+          "zoneId": "2971310082",
+          "name": "SEA-Stone of Destiny"
+        },
+        {
+          "zoneId": "2971310081",
+          "name": "SEA-Brionac"
+        },
+        {
+          "zoneId": "2971310080",
+          "name": "SEA-Mistilteinn"
+        },
+        {
+          "zoneId": "2971310079",
+          "name": "SEA-Yata no Kagami"
+        },
+        {
+          "zoneId": "2971310078",
+          "name": "SEA-Fetters of Fenrir"
+        },
+        {
+          "zoneId": "2971310077",
+          "name": "SEA-Thyrsus"
+        },
+        {
+          "zoneId": "2971310076",
+          "name": "SEA-Futsunomitama"
+        },
+        {
+          "zoneId": "2971310075",
+          "name": "SEA-Laevatein"
+        },
+        {
+          "zoneId": "2971310074",
+          "name": "SEA-Crown of Baal"
+        },
+        {
+          "zoneId": "2971310073",
+          "name": "SEA-Book of Dantalion"
+        },
+        {
+          "zoneId": "2971310072",
+          "name": "SEA-Leraje Broken Bow"
+        },
+        {
+          "zoneId": "2971310071",
+          "name": "SEA-Ankh Glyph"
+        },
+        {
+          "zoneId": "2971310070",
+          "name": "SEA-Rebellious Factory"
+        },
+        {
+          "zoneId": "2971310069",
+          "name": "SEA-Crystal-sealed Church"
+        },
+        {
+          "zoneId": "2971310068",
+          "name": "SEA-Qilin Pass"
+        },
+        {
+          "zoneId": "2971310067",
+          "name": "SEA-Siloam"
+        },
+        {
+          "zoneId": "2971310066",
+          "name": "SEA-Falaf"
+        },
+        {
+          "zoneId": "2971310062",
+          "name": "SEA-Sorrow Pass"
+        },
+        {
+          "zoneId": "2971310065",
+          "name": "SEA-Sunset Ruins"
+        },
+        {
+          "zoneId": "2971310064",
+          "name": "SEA-Crystal Factory"
+        },
+        {
+          "zoneId": "2971310063",
+          "name": "SEA-Thousand Ruins Mountain"
+        },
+        {
+          "zoneId": "2971310061",
+          "name": "SEA-Kamos"
+        },
+        {
+          "zoneId": "2971310060",
+          "name": "SEA-Church of the Testament"
+        },
+        {
+          "zoneId": "2971310059",
+          "name": "SEA-Golden Swamp"
+        },
+        {
+          "zoneId": "2971310058",
+          "name": "SEA-Valley of the Kings"
+        },
+        {
+          "zoneId": "2971310057",
+          "name": "SEA-Desert Ruins"
+        },
+        {
+          "zoneId": "2971310056",
+          "name": "SEA-Heliapolis"
+        },
+        {
+          "zoneId": "2971310055",
+          "name": "SEA-Heartbreak Ridge"
+        },
+        {
+          "zoneId": "2971310054",
+          "name": "SEA-Leiptorys"
+        },
+        {
+          "zoneId": "2971310053",
+          "name": "SEA-Drinking Dragon Bay"
+        },
+        {
+          "zoneId": "2971310052",
+          "name": "SEA-State of Peace"
+        },
+        {
+          "zoneId": "2971310051",
+          "name": "SEA-Cloudferry"
+        },
+        {
+          "zoneId": "2971310050",
+          "name": "SEA-Canhe Slope"
+        },
+        {
+          "zoneId": "2971310049",
+          "name": "SEA-Stargazing Tower"
+        },
+        {
+          "zoneId": "2971310048",
+          "name": "SEA-Wind Rider Pavilion"
+        },
+        {
+          "zoneId": "2971310047",
+          "name": "SEA-Ominous Ruins"
+        },
+        {
+          "zoneId": "2971310046",
+          "name": "SEA-Vologda"
+        },
+        {
+          "zoneId": "2971310045",
+          "name": "SEA-Cold Lake Station"
+        },
+        {
+          "zoneId": "2971310044",
+          "name": "SEA-Trachberg"
+        },
+        {
+          "zoneId": "2971310043",
+          "name": "SEA-Bird Cage Site"
+        },
+        {
+          "zoneId": "2971310042",
+          "name": "SEA-Babel Parish"
+        },
+        {
+          "zoneId": "2971310041",
+          "name": "SEA-Botley"
+        },
+        {
+          "zoneId": "2971310040",
+          "name": "SEA-Sinai"
+        },
+        {
+          "zoneId": "2971310039",
+          "name": "SEA-St. Furia"
+        },
+        {
+          "zoneId": "2971310038",
+          "name": "SEA-Canaan"
+        },
+        {
+          "zoneId": "2971310037",
+          "name": "SEA-Memphis"
+        },
+        {
+          "zoneId": "2971310036",
+          "name": "SEA-Mo Capital"
+        },
+        {
+          "zoneId": "2971310035",
+          "name": "SEA-Stoker"
+        },
+        {
+          "zoneId": "2971310034",
+          "name": "SEA-Augustine"
+        },
+        {
+          "zoneId": "2971310033",
+          "name": "SEA-Phantom Thieves"
+        },
+        {
+          "zoneId": "2971310032",
+          "name": "SEA-Warriors"
+        },
+        {
+          "zoneId": "2971310031",
+          "name": "SEA-New Scepter"
+        },
+        {
+          "zoneId": "2971310030",
+          "name": "SEA-Rebel Tribes"
+        },
+        {
+          "zoneId": "2971310029",
+          "name": "SEA-Royal Supreme"
+        },
+        {
+          "zoneId": "2971310028",
+          "name": "SEA-Academic Supremacy"
+        },
+        {
+          "zoneId": "2971310027",
+          "name": "SEA-Luminary Guard"
+        },
+        {
+          "zoneId": "2971310026",
+          "name": "SEA-Watchtower"
+        },
+        {
+          "zoneId": "2971310025",
+          "name": "SEA-Eastrise Royalty"
+        },
+        {
+          "zoneId": "2971310024",
+          "name": "SEA-Civil Stars"
+        },
+        {
+          "zoneId": "2971310023",
+          "name": "SEA-Noble Blood"
+        },
+        {
+          "zoneId": "2971310022",
+          "name": "SEA-God Eaters"
+        },
+        {
+          "zoneId": "2971310021",
+          "name": "SEA-Rasparta"
+        },
+        {
+          "zoneId": "2971310020",
+          "name": "SEA-Kish"
+        },
+        {
+          "zoneId": "2971310019",
+          "name": "SEA-Dark Road"
+        },
+        {
+          "zoneId": "2971310018",
+          "name": "SEA-Nova"
+        },
+        {
+          "zoneId": "2971310017",
+          "name": "SEA-Teslovik"
+        },
+        {
+          "zoneId": "2971310016",
+          "name": "SEA-Icefield Howl"
+        },
+        {
+          "zoneId": "2971310015",
+          "name": "SEA-Nebu"
+        },
+        {
+          "zoneId": "2971310014",
+          "name": "SEA-Eastrise"
+        },
+        {
+          "zoneId": "2971310013",
+          "name": "SEA-Bifrost"
+        },
+        {
+          "zoneId": "2971310012",
+          "name": "SEA-Empire"
+        },
+        {
+          "zoneId": "2971310010",
+          "name": "SEA-Pioneer10"
+        },
+        {
+          "zoneId": "2971310009",
+          "name": "SEA-Pioneer9"
+        },
+        {
+          "zoneId": "2971310008",
+          "name": "SEA-Pioneer8"
+        },
+        {
+          "zoneId": "2971310007",
+          "name": "SEA-Pioneer7"
+        },
+        {
+          "zoneId": "2971310006",
+          "name": "SEA-Pioneer6"
+        },
+        {
+          "zoneId": "2971310005",
+          "name": "SEA-Pioneer5"
+        },
+        {
+          "zoneId": "2971310004",
+          "name": "SEA-Pioneer4"
+        },
+        {
+          "zoneId": "2971310003",
+          "name": "SEA-Pioneer3"
+        },
+        {
+          "zoneId": "2971310002",
+          "name": "SEA-Pioneer2"
+        },
+        {
+          "zoneId": "2971310001",
+          "name": "SEA-Pioneer1"
+        }
+      ],
+      "itemId": 1715,
+      "product_ref_denom": "REG",
+      "catalogId": 2893,
+      "paymentChannel": 7901
+    },
+    {
+      "id": "3",
+      "name": "Free Fire (FF) (DG)",
+      "slug": "freefire-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 10,
+      "product_ref_denom": "REG",
+      "catalogId": 65,
+      "paymentChannel": 749
+    },
+    {
+      "id": "81",
+      "name": "Game Speed Up (DG)",
+      "slug": "game-speed-up-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 776,
+      "product_ref_denom": "REG",
+      "catalogId": 1902,
+      "paymentChannel": 4870
+    },
+    {
+      "id": "2",
+      "name": "Garena Shells (DG)",
+      "slug": "garena-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 6,
+      "product_ref_denom": "REG",
+      "catalogId": 61,
+      "paymentChannel": 5359
+    },
+    {
+      "id": "158",
+      "name": "Garuda Eleven (DG)",
+      "slug": "garuda-eleven-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1727,
+      "product_ref_denom": "REG",
+      "catalogId": 2905,
+      "paymentChannel": 7954
+    },
+    {
+      "id": "107",
+      "name": "Genshin Impact (DG)",
+      "slug": "genshin-crystal-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "dropdown": [
+        {
+          "zoneId": "America",
+          "name": "America"
+        },
+        {
+          "zoneId": "Asia",
+          "name": "Asia"
+        },
+        {
+          "zoneId": "Europe",
+          "name": "Europe"
+        },
+        {
+          "zoneId": "TW_HK_MO",
+          "name": "TW_HK_MO"
+        }
+      ],
+      "itemId": 1002,
+      "product_ref_denom": "REG",
+      "catalogId": 2163,
+      "paymentChannel": 6661
+    },
+    {
+      "id": "31",
+      "name": "Google Play (DG)",
+      "slug": "google-play-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1312,
+      "product_ref_denom": "REG",
+      "catalogId": 2492,
+      "paymentChannel": 6374
+    },
+    {
+      "id": "143",
+      "name": "Growtopia (DG)",
+      "slug": "growtopia-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1512,
+      "product_ref_denom": "REG",
+      "catalogId": 2694,
+      "paymentChannel": 7019
+    },
+    {
+      "id": "181",
+      "name": "Hago (DG)",
+      "slug": "hago-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 2016,
+      "product_ref_denom": "REG",
+      "catalogId": 3194,
+      "paymentChannel": 8724
+    },
+    {
+      "id": "145",
+      "name": "Harry Potter Magic Awakened (DG)",
+      "slug": "harry-potter-magic-awakened-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "dropdown": [
+        {
+          "zoneId": "12001",
+          "name": "萬應室"
+        },
+        {
+          "zoneId": "13011",
+          "name": "不死鳥"
+        },
+        {
+          "zoneId": "13012",
+          "name": "ユニコーン"
+        },
+        {
+          "zoneId": "13013",
+          "name": "니플러"
+        },
+        {
+          "zoneId": "13014",
+          "name": "Ashwinder"
+        },
+        {
+          "zoneId": "13015",
+          "name": "Erumpent"
+        },
+        {
+          "zoneId": "13016",
+          "name": "Sphinx"
+        },
+        {
+          "zoneId": "13017",
+          "name": "Rougarou"
+        },
+        {
+          "zoneId": "13018",
+          "name": "驺吾(海外加速区）"
+        },
+        {
+          "zoneId": "22001",
+          "name": "servername_22001"
+        }
+      ],
+      "itemId": 1529,
+      "product_ref_denom": "REG",
+      "catalogId": 2711,
+      "paymentChannel": 7036
+    },
+    {
+      "id": "118",
+      "name": "Heroes Evolved (DG)",
+      "slug": "heroes-evolved-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "dropdown": [
+        {
+          "zoneId": "100",
+          "name": "North America - LOST TEMPLE [NA]"
+        },
+        {
+          "zoneId": "101",
+          "name": "North America - NEW ORDER [NA]"
+        },
+        {
+          "zoneId": "111",
+          "name": "Europe - ASGARD[EU]"
+        },
+        {
+          "zoneId": "112",
+          "name": "Europe - OLYMPUS[EU]"
+        },
+        {
+          "zoneId": "121",
+          "name": "South America - AMAZON [SA]"
+        },
+        {
+          "zoneId": "122",
+          "name": "South America - EL DORADO [SA]"
+        },
+        {
+          "zoneId": "131",
+          "name": "ASIA - S1.ANGKOR [AS]"
+        },
+        {
+          "zoneId": "133",
+          "name": "ASIA - S2.EL NIDO [AS]"
+        },
+        {
+          "zoneId": "134",
+          "name": "ASIA - [[TH]"
+        },
+        {
+          "zoneId": "100",
+          "name": "ASIA - SHANGRI-LA [AS]"
+        },
+        {
+          "zoneId": "135",
+          "name": "ASIA - [TH]"
+        }
+      ],
+      "itemId": 1250,
+      "product_ref_denom": "REG",
+      "catalogId": 2427,
+      "paymentChannel": 5906
+    },
+    {
+      "id": "111",
+      "name": "Heroes Evolved Point Card (DG)",
+      "slug": "heroes-evolved-point-card-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1048,
+      "product_ref_denom": "REG",
+      "catalogId": 2229,
+      "paymentChannel": 5566
+    },
+    {
+      "id": "150",
+      "name": "Honkai Star Rail (DG)",
+      "slug": "honkai-star-rail-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "dropdown": [
+        {
+          "zoneId": "prod_official_asia",
+          "name": "Asia"
+        },
+        {
+          "zoneId": "prod_official_usa",
+          "name": "America"
+        },
+        {
+          "zoneId": "prod_official_eur",
+          "name": "Europe"
+        },
+        {
+          "zoneId": "prod_official_cht",
+          "name": "TW,HK,MO"
+        }
+      ],
+      "itemId": 1647,
+      "product_ref_denom": "REG",
+      "catalogId": 2829,
+      "paymentChannel": 7595
+    },
+    {
+      "id": "128",
+      "name": "Laplace Mobile (DG)",
+      "slug": "laplace-mobile-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1316,
+      "product_ref_denom": "REG",
+      "catalogId": 2496,
+      "paymentChannel": 6389
+    },
+    {
+      "id": "175",
+      "name": "League of Legends (LOL) (DG)",
+      "slug": "league-of-legends-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1925,
+      "product_ref_denom": "REG",
+      "catalogId": 3103,
+      "paymentChannel": 8444
+    },
+    {
+      "id": "113",
+      "name": "League of Legends : Wild Rift (DG)",
+      "slug": "league-of-legends-wild-rift-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1072,
+      "product_ref_denom": "REG",
+      "catalogId": 2253,
+      "paymentChannel": 5590
+    },
+    {
+      "id": "177",
+      "name": "League of Legends : Wild Rift (DG)",
+      "slug": "league-of-legends-wr-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1953,
+      "product_ref_denom": "REG",
+      "catalogId": 3131,
+      "paymentChannel": 8588
+    },
+    {
+      "id": "114",
+      "name": "Lita (DG)",
+      "slug": "lita-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1117,
+      "product_ref_denom": "REG",
+      "catalogId": 2298,
+      "paymentChannel": 5657
+    },
+    {
+      "id": "105",
+      "name": "Luna Fantasia (DG)",
+      "slug": "luna-fantasia-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 986,
+      "product_ref_denom": "REG",
+      "catalogId": 2148,
+      "paymentChannel": 5338
+    },
+    {
+      "id": "110",
+      "name": "MU Origin 3 (DG)",
+      "slug": "mu-origin-3-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1037,
+      "product_ref_denom": "REG",
+      "catalogId": 2221,
+      "paymentChannel": 5558
+    },
+    {
+      "id": "173",
+      "name": "Magic Chess (DG)",
+      "slug": "magic-chess-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "itemId": 1896,
+      "product_ref_denom": "REG",
+      "catalogId": 3074,
+      "paymentChannel": 8285
+    },
+    {
+      "id": "9",
+      "name": "Megaxus (DG)",
+      "slug": "mi-cash-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 43,
+      "product_ref_denom": "REG",
+      "catalogId": 98,
+      "paymentChannel": 6028
+    },
+    {
+      "id": "141",
+      "name": "Metal Slug (DG)",
+      "slug": "metal-slug-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1486,
+      "product_ref_denom": "REG",
+      "catalogId": 2666,
+      "paymentChannel": 6856
+    },
+    {
+      "id": "5dbpwJeZWzTB6wL5rdyxfRd",
+      "name": "Minecraft (DG)",
+      "slug": "minecraft-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 2013,
+      "product_ref_denom": "REG",
+      "catalogId": 3191,
+      "paymentChannel": 8716
+    },
+    {
+      "id": "VlDKNmzRr0S7K0k0OgW",
+      "name": "Mobile Legends (MLBB) (DG)",
+      "slug": "mobile-legends-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "itemId": 66,
+      "product_ref_denom": "REG",
+      "catalogId": 121,
+      "paymentChannel": 6361
+    },
+    {
+      "id": "98",
+      "name": "NetEase Pay (DG)",
+      "slug": "netease-pay-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 921,
+      "product_ref_denom": "REG",
+      "catalogId": 2075,
+      "paymentChannel": 5144
+    },
+    {
+      "id": "97",
+      "name": "One Punch Man : The Strongest (DG)",
+      "slug": "one-punch-man-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "itemId": 917,
+      "product_ref_denom": "REG",
+      "catalogId": 2071,
+      "paymentChannel": 5140
+    },
+    {
+      "id": "124",
+      "name": "Paw Rumble (DG)",
+      "slug": "paw-rumble-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1282,
+      "product_ref_denom": "REG",
+      "catalogId": 2465,
+      "paymentChannel": 6334
+    },
+    {
+      "id": "70",
+      "name": "Perfect World (DG)",
+      "slug": "perfect-world-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "dropdown": [
+        {
+          "zoneId": "1",
+          "name": "MoonLight"
+        },
+        {
+          "zoneId": "2",
+          "name": "Lotus"
+        },
+        {
+          "zoneId": "3",
+          "name": "Crimson"
+        },
+        {
+          "zoneId": "4",
+          "name": "Kirin"
+        },
+        {
+          "zoneId": "5",
+          "name": "Morai"
+        }
+      ],
+      "itemId": 567,
+      "product_ref_denom": "REG",
+      "catalogId": 593,
+      "paymentChannel": 1846
+    },
+    {
+      "id": "17",
+      "name": "Point Blank (DG)",
+      "slug": "point-blank-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 82,
+      "product_ref_denom": "REG",
+      "catalogId": 138,
+      "paymentChannel": 6154
+    },
+    {
+      "id": "7d7eyJnN89Tp0yZlDGyeINp",
+      "name": "Ragnarok Origin (DG)",
+      "slug": "ragnarok-origin-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "dropdown": [
+        {
+          "zoneId": "1",
+          "name": "Prontera-(1~3)"
+        },
+        {
+          "zoneId": "4",
+          "name": "Prontera-(4~6)"
+        },
+        {
+          "zoneId": "7",
+          "name": "Prontera-(7~9)"
+        },
+        {
+          "zoneId": "10",
+          "name": "Prontera-10/Izlude-(1~4)"
+        },
+        {
+          "zoneId": "15",
+          "name": "Izlude-(5~8)"
+        },
+        {
+          "zoneId": "19",
+          "name": "Izlude-9(-10)/Morroc-(1~4)"
+        },
+        {
+          "zoneId": "25",
+          "name": "Morroc-(5~10)"
+        },
+        {
+          "zoneId": "31",
+          "name": "Geffen-(1~10)/Payon-1"
+        },
+        {
+          "zoneId": "42",
+          "name": "Payon-(2~10)"
+        },
+        {
+          "zoneId": "51",
+          "name": "Poring Island-(1~10)/Orc Village-(1~3)"
+        },
+        {
+          "zoneId": "64",
+          "name": "Orc Village-(4~10)/Shipwreck-1(-2)"
+        },
+        {
+          "zoneId": "73",
+          "name": "Shipwreck-(3~9)"
+        },
+        {
+          "zoneId": "80",
+          "name": "Memoria/Awakening/Ant Hell-(1~5)"
+        },
+        {
+          "zoneId": "87",
+          "name": "Ant Hell-(7~10)"
+        },
+        {
+          "zoneId": "91",
+          "name": "Goblin Forest-1(-2)"
+        },
+        {
+          "zoneId": "93",
+          "name": "Valentine"
+        },
+        {
+          "zoneId": "94",
+          "name": "Goblin Forest-4"
+        },
+        {
+          "zoneId": "95",
+          "name": "Lasagna"
+        },
+        {
+          "zoneId": "96",
+          "name": "1st-Anniversary"
+        },
+        {
+          "zoneId": "97",
+          "name": "Goblin Forest-7"
+        },
+        {
+          "zoneId": "98",
+          "name": "For Honor"
+        },
+        {
+          "zoneId": "99",
+          "name": "Sakura Vows"
+        },
+        {
+          "zoneId": "100",
+          "name": "Goblin Forest-10"
+        },
+        {
+          "zoneId": "101",
+          "name": "Garden-1"
+        }
+      ],
+      "itemId": 1772,
+      "product_ref_denom": "REG",
+      "catalogId": 2950,
+      "paymentChannel": 8067
+    },
+    {
+      "id": "13",
+      "name": "Razer Gold (DG)",
+      "slug": "razer-gold-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 69,
+      "product_ref_denom": "REG",
+      "catalogId": 124,
+      "paymentChannel": 6808
+    },
+    {
+      "id": "112",
+      "name": "Revelation Mobile (DG)",
+      "slug": "revelation-mobile-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1057,
+      "product_ref_denom": "REG",
+      "catalogId": 2238,
+      "paymentChannel": 5575
+    },
+    {
+      "id": "N0rl2m8XwMIz22kBlbDMu8p",
+      "name": "Roblox (DG)",
+      "slug": "roblox-voucher-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1843,
+      "product_ref_denom": "REG",
+      "catalogId": 3021,
+      "paymentChannel": 8261
+    },
+    {
+      "id": "129",
+      "name": "Sausage Man (DG)",
+      "slug": "sausage-man-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1321,
+      "product_ref_denom": "REG",
+      "catalogId": 2501,
+      "paymentChannel": 6422
+    },
+    {
+      "id": "5",
+      "name": "Speed Drifters (DG)",
+      "slug": "speed-drifters-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 25,
+      "product_ref_denom": "REG",
+      "catalogId": 80,
+      "paymentChannel": 6287
+    },
+    {
+      "id": "140",
+      "name": "State of Survival (DG)",
+      "slug": "state-of-survival-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1479,
+      "product_ref_denom": "REG",
+      "catalogId": 2659,
+      "paymentChannel": 6835
+    },
+    {
+      "id": "144",
+      "name": "Super Sus (DG)",
+      "slug": "super-sus-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1518,
+      "product_ref_denom": "REG",
+      "catalogId": 2700,
+      "paymentChannel": 7025
+    },
+    {
+      "id": "176",
+      "name": "Teamfight Tactics (DG)",
+      "slug": "teamfight-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1947,
+      "product_ref_denom": "REG",
+      "catalogId": 3125,
+      "paymentChannel": 8566
+    },
+    {
+      "id": "117",
+      "name": "The Legend of Neverland (DG)",
+      "slug": "the-legend-of-neverland-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1242,
+      "product_ref_denom": "REG",
+      "catalogId": 2419,
+      "paymentChannel": 5898
+    },
+    {
+      "id": "95",
+      "name": "Tom and Jerry : Chase (DG)",
+      "slug": "tom-and-jerry-chase-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": true,
+      "dropdown": [
+        {
+          "zoneId": "Asia_Server",
+          "name": "Asia_Server"
+        }
+      ],
+      "itemId": 909,
+      "product_ref_denom": "REG",
+      "catalogId": 2063,
+      "paymentChannel": 5118
+    },
+    {
+      "id": "131",
+      "name": "Uncharted Waters Origin (DG)",
+      "slug": "uncharted-waters-origin-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1376,
+      "product_ref_denom": "REG",
+      "catalogId": 2556,
+      "paymentChannel": 6653
+    },
+    {
+      "id": "120",
+      "name": "Undawn (DG)",
+      "slug": "undawn-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1255,
+      "product_ref_denom": "REG",
+      "catalogId": 2432,
+      "paymentChannel": 5932
+    },
+    {
+      "id": "14",
+      "name": "Unipin Credits (DG)",
+      "slug": "unipin-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 72,
+      "product_ref_denom": "REG",
+      "catalogId": 127,
+      "paymentChannel": 426
+    },
+    {
+      "id": "170",
+      "name": "Valorant (DG)",
+      "slug": "valorant-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1871,
+      "product_ref_denom": "REG",
+      "catalogId": 3049,
+      "paymentChannel": 8398
+    },
+    {
+      "id": "nGNd2ORvw4sY24j6OJ4Gt7z",
+      "name": "Voucher Majamojo Mobile (DG)",
+      "slug": "majamojo-mobile-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 1860,
+      "product_ref_denom": "REG",
+      "catalogId": 3038,
+      "paymentChannel": 8198
+    },
+    {
+      "id": "182",
+      "name": "Zepeto (DG)",
+      "slug": "zepeto-dg",
+      "provider": "duniagames",
+      "product_ref": "REG",
+      "isZone": false,
+      "itemId": 2024,
+      "product_ref_denom": "REG",
+      "catalogId": 3202,
+      "paymentChannel": 8739
+    }
+  ]
+}

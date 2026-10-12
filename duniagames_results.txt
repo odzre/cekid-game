@@ -1,0 +1,57 @@
+Angel Squad (DG) | null | false | Duplicate trx_id | undefined | undefined
+AoV (DG) | null | false | Error_Game_Id | undefined | undefined
+Bleach Mobile 3D (DG) | 4231002 | false | Username is required | undefined | undefined
+Blizzard Gift Card (DG) | null | true | ID Found | undefined | undefined
+Blood Strike (DG) | -1 | false | Error_Game_Id | undefined | undefined
+Call of Duty Mobile (DG) | null | false | Error_Game_Id | undefined | undefined
+Cat Fantasy Majamojo (DG) | null | true | ID Found | undefined | undefined
+Dragon Raja (DG) | null | false | Error_Game_Id | undefined | undefined
+EA Sports FC Mobile (DG) | null | false | Error_Game_Id | undefined | undefined
+ETE Chronicle (DG) | null | true | ID Found | undefined | undefined
+Echocalypse (DG) | 2971310113 | false | Error_Game_Id | undefined | undefined
+Free Fire (FF) (DG) | null | false | Error_Game_Id | undefined | undefined
+Game Speed Up (DG) | null | true | ID Found | undefined | undefined
+Garena Shells (DG) | null | true | ID Found | undefined | undefined
+Garuda Eleven (DG) | null | false | Error_InvalidZoneId | undefined | undefined
+Genshin Impact (DG) | America | false | Error_Game_Id | undefined | undefined
+Google Play (DG) | null | true | ID Found | undefined | undefined
+Growtopia (DG) | null | false | Error_Game_Id | undefined | undefined
+Hago (DG) | null | false | Duplicate trx_id | undefined | undefined
+Harry Potter Magic Awakened (DG) | 12001 | true | ID Found | 毛毛 | undefined
+Heroes Evolved (DG) | 100 | false | Error_Game_Id | undefined | undefined
+Heroes Evolved Point Card (DG) | null | true | ID Found | undefined | undefined
+Honkai Star Rail (DG) | prod_official_asia | false | Error_Game_Id | undefined | undefined
+Laplace Mobile (DG) | null | false | Error_Game_Id | undefined | undefined
+League of Legends (LOL) (DG) | null | false | Error_Game_Id | undefined | undefined
+League of Legends : Wild Rift (DG) | null | false | Item out of stock | undefined | undefined
+League of Legends : Wild Rift (DG) | null | false | Error_Game_Id | undefined | undefined
+Lita (DG) | null | false | Error_Game_Id | undefined | undefined
+Luna Fantasia (DG) | null | true | ID Found | undefined | undefined
+MU Origin 3 (DG) | null | false | Error_Game_Id | undefined | undefined
+Magic Chess (DG) | 1 | false | Error_Game_Id | undefined | undefined
+Megaxus (DG) | null | true | ID Found | undefined | undefined
+Metal Slug (DG) | null | false | Error_Game_Id | undefined | undefined
+Minecraft (DG) | null | false | PRODUCT NOT FOUND | undefined | undefined
+Mobile Legends (MLBB) (DG) | 1 | false | PRODUCT NOT FOUND | undefined | undefined
+NetEase Pay (DG) | null | true | ID Found | undefined | undefined
+One Punch Man : The Strongest (DG) | 1 | false | Error_Game_Id | undefined | undefined
+Paw Rumble (DG) | null | false | Error_Game_Id | undefined | undefined
+Perfect World (DG) | 1 | false | Error_InvalidZoneId | undefined | undefined
+Point Blank (DG) | null | false | Error_InvalidZoneId | undefined | undefined
+Ragnarok Origin (DG) | 1 | false | PRODUCT NOT FOUND | undefined | undefined
+Razer Gold (DG) | null | true | ID Found | undefined | undefined
+Revelation Mobile (DG) | null | false | Error_Game_Id | undefined | undefined
+Roblox (DG) | null | false | PRODUCT NOT FOUND | undefined | undefined
+Sausage Man (DG) | null | false | Internal server error | undefined | undefined
+Speed Drifters (DG) | null | false | Error_Game_Id | undefined | undefined
+State of Survival (DG) | null | false | Error_Game_Id | undefined | undefined
+Super Sus (DG) | null | false | Error_Game_Id | undefined | undefined
+Teamfight Tactics (DG) | null | false | Error_Game_Id | undefined | undefined
+The Legend of Neverland (DG) | null | false | Item out of stock | undefined | undefined
+Tom and Jerry : Chase (DG) | Asia_Server | false | Error_Game_Id | undefined | undefined
+Uncharted Waters Origin (DG) | null | true | ID Found | undefined | undefined
+Undawn (DG) | null | false | Error_Game_Id | undefined | undefined
+Unipin Credits (DG) | null | true | ID Found | undefined | undefined
+Valorant (DG) | null | false | Error_Game_Id | undefined | undefined
+Voucher Majamojo Mobile (DG) | null | false | PRODUCT NOT FOUND | undefined | undefined
+Zepeto (DG) | null | false | Duplicate trx_id | undefined | undefined

@@ -1,0 +1,11 @@
+{
+   "data": [
+      {
+         "id": 5000,
+         "name": "+ 🗨️4Fun Chat",
+         "slug": "4fun-chat",
+         "provider": "4funchat",
+         "isZone": false
+      }
+   ]
+}

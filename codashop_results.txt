@@ -1,0 +1,156 @@
+Magic Chess: Go Go | 1 | false | Server Error: User Account Validation Failed. Please try again later | undefined | undefined
+Mobile Legends: Bang Bang | 1 | false | -100: Invalid user ID | undefined | undefined
+Free Fire Top-up | null | false | Invalid user ID | undefined | undefined
+Genshin Impact | os_usa | false | Error, Please contact admin | undefined | 214
+Chamet | null | false | Invalid user ID | undefined | undefined
+Poppo Live | null | false | Server Error: User Account Validation Failed. Please try again later | undefined | undefined
+Zenless Zone Zero | prod_gf_us | false | User is not valid (Validation process was successfully completed, but user  was not found). | undefined | undefined
+VALORANT | null | false | The correct Riot ID format is ABC123#ABC | undefined | undefined
+Call of Duty Mobile | null | false | Silahkan Coba 5 detik lagi | undefined | undefined
+Hago | null | false | userIDNotEligibleError | undefined | undefined
+EA SPORTS FC™ Mobile | null | false | The player’s game account country does not match the country of this product | undefined | undefined
+Honkai: Star Rail | prod_official_usa | false | User is not valid (Validation process was successfully completed, but user  was not found). | undefined | undefined
+Undawn | null | false | Invalid user ID | undefined | undefined
+League of Legends: Wild Rift | null | false | The correct Riot ID format is ABC123#ABC | undefined | undefined
+Super Sus | null | false | 账号错误 | undefined | undefined
+ZEPETO | null | false | not available user: 1 | undefined | undefined
+League of Legends | null | false | The correct Riot ID format is ABC123#ABC | undefined | undefined
+Free Fire MAX Top-up | null | false | Invalid user ID | undefined | undefined
+Arena of Valor | null | false | Invalid user ID | undefined | undefined
+Revelation: Infinite Journey | null | false | Verify User Failed | undefined | undefined
+Football Dream: Be A Pro | null | false | coda validation failed to get role[1] info, err: GetAccountAndRoleByRoleID(1) no record found | undefined | undefined
+Paw Tales: Eternal Bond | 14001 | false | Get role info failed | undefined | undefined
+Samkok Fantasy | null | false | Invalid user ID | undefined | undefined
+Dream and the Lethe Record | null | false | Internal Server Error | undefined | TypeError: Cannot read properties of undefined (reading '0')
+Dragon Nest M: Classic | 1 | false | Server Error: User Account Validation Failed. Please try again later | undefined | undefined
+Dazz Live | null | false | The user does not exist! | undefined | undefined
+Bigo Live | null | false | ok | undefined | undefined
+Racing Master | 4000 | false | user not found:错误的玩家Id | undefined | undefined
+Heaven Domain: Rebirth | 313 | false | Role not found | undefined | undefined
+AFK Journey | null | false | Server Error: User Account Validation Failed. Please try again later | undefined | undefined
+Culinary Tour | 40001 | false | Get role info failed | undefined | undefined
+ForsakenWorld 2 | null | false | Verify User Failed | undefined | undefined
+Watcher of Realms | 1 | false | Error_InvalidZoneId | undefined | undefined
+Stumble Guys | null | false | Invalid user id | undefined | undefined
+Love and Deepspace | null | false | Server Error: User Account Validation Failed. Please try again later | undefined | undefined
+Mythic Dawn: 13 Megami | 1 | false | Get role info failed | undefined | undefined
+Heaven Burns Red | null | false | UserId not found. (clientUserId:1, clientUserIdShardKey:6b86b273ff34fce19d6b804eff5a3f57) | undefined | undefined
+Teamfight Tactics Mobile | null | false | The correct Riot ID format is ABC123#ABC | undefined | undefined
+Machina Waking | 3 | false | Role not found | undefined | undefined
+ColorBANG | null | false | No SKU found with price > 15000 | undefined | undefined
+Potato Hero: Zombie Survival | 1 | false | User is not valid | undefined | undefined
+Ghost Story: Love Destiny | null | false | Verify User Failed | undefined | undefined
+OCTOPATH TRAVELER: CotC | -1 | false | user not found:Unexpected response code | undefined | undefined
+Isekai Feast: Tales of Recipes | 10001 | false | Get role info failed | undefined | undefined
+MOB RUSH | 1 | false | Error_InvalidZoneId | undefined | undefined
+Moonlight Blade M | null | false | Verify User Failed | undefined | undefined
+PHANTASY STAR ONLINE 2 NEW GENESIS | null | false | Server Error: User Account Validation Failed. Please try again later | undefined | undefined
+Pixel Gun 3D | null | false | Invalid user ID | undefined | undefined
+Legacy Fate: Sacred & Fearless | 10023 | false | Get role info failed | undefined | undefined
+Heroic Uncle Kim: Idle RPG | null | false | Invalid User ID | undefined | undefined
+Paw Rumble | null | false | Invalid user ID | undefined | undefined
+Monster Saga: Evolution | 28001 | false | Get role info failed | undefined | undefined
+Dunk City Dynasty | 4004 | false | user not found:user not exist | undefined | undefined
+Whisper of Shadow | null | false | Error_Role_Null | undefined | undefined
+Invincible: Guarding the Globe | null | false | User not found. | undefined | undefined
+Among Heroes: Fantasy Samkok | 21001 | false | The item you select is no longer available. | undefined | undefined
+War Planet Online | null | false | We could not find User ID of:  1 | undefined | undefined
+Advent of God:Legends | 319 | false | Get role info failed | undefined | undefined
+Legend of Mushroom: Rush | 1 | false | User is not valid | undefined | undefined
+Blood Strike | -1 | false | user not found:user not exists. | undefined | undefined
+EGGY PARTY | 10001 | false | user not found:role info not exist | undefined | undefined
+Harry Potter: Magic Awakened | 13014 | false | user not found:role not exist | undefined | undefined
+Metal Slug: Awakening | null | false | Verify User Failed | undefined | undefined
+Disney Magic Kingdoms | null | false | Unable to process your order.  Please try in a few minutes. | undefined | undefined
+MapleStory M | LiveNA | false | Invalid User Account | undefined | undefined
+Growtopia | null | false | We could not find User ID of: 1 | undefined | undefined
+State of Survival | null | false | ID not founds | undefined | undefined
+Honkai Impact 3 | null | false | User is not valid (Validation process was successfully completed, but user  was not found). | undefined | undefined
+LifeAfter | 560008 | false | hostid not found | undefined | undefined
+Punishing: Gray Raven | 5000 | false | Server Error: User Account Validation Failed. Please try again later | undefined | undefined
+Dragon Raja | null | false | common error | undefined | undefined
+Astral Guardians: Cyber Fantasy | 123 | false | Role not found | undefined | undefined
+Point Blank | null | false | User is not valid (Validation process was successfully completed, but user was not found). | undefined | undefined
+ONE PUNCH MAN: The Strongest | 1 | false | userID error | undefined | undefined
+Ragnarok X: Next Generation | 2134 | false | User is not valid. | undefined | undefined
+Mobile Legends: Adventure | 1 | false | -100: Invalid user ID | undefined | undefined
+Be The King: Judge Destiny | 200001 | false | Invalid user ID | undefined | undefined
+Ragnarok M: Eternal Love Big Cat Coin | 90001 | false | The userId is not valid. Validation process was successfully completed, but the user account was not found. | undefined | undefined
+Top Eleven | null | false | Sorry, you can not top up this game account using this payment channel. Please visit Codashop for the country where your game account was created to top up this account. | undefined | undefined
+Idol Party | null | false | User is not valid | undefined | undefined
+Scroll of Onmyoji: Sakura & Sword | 3 | false | Role not found | undefined | undefined
+Mirage: Perfect Skyline | 313 | false | Role not found | undefined | undefined
+Identity V | 2001 | false | user not found | undefined | undefined
+Captain Tsubasa: Dream Team | null | false | User ID: {} doesn't exist. | undefined | undefined
+Onmyoji Arena | null | false | user not found | undefined | undefined
+Auto Chess  | null | false | account info not found | undefined | undefined
+Azur Lane | 5 | false | Internal Server Error | undefined | TypeError: Cannot read properties of undefined (reading '0')
+Football Master 2 | null | false | Server Error: User Account Validation Failed. Please try again later | undefined | undefined
+Sausage Man | 1 | false | user-not-found | undefined | undefined
+Crisis Action | 2001 | false | User is not eligible to purchase item. | undefined | undefined
+8 Ball Pool | null | true | ID Found | R*b S***l | undefined
+Shining Nikki | null | false | user not found | undefined | undefined
+MU Origin 2 | 1 | false | userID error | undefined | undefined
+Cloud Song: Saga of Skywalkers | null | false | Verify User Failed | undefined | undefined
+Heroes Evolved | 131 | false | User is not valid. | undefined | undefined
+World War Heroes | null | false | invalid user name | undefined | undefined
+Asphalt 9: Legends | ios | false | We could not find User ID of:  1 | undefined | undefined
+Dragon City | null | true | ID Found | 2 | undefined
+MARVEL Duel | null | false | invalid param: roleid | undefined | undefined
+Basketrio | 3 | false | UNKNOWN | undefined | undefined
+Tom and Jerry: Chase | 10001 | false | user not found | undefined | undefined
+Modern Combat 5: Blackout | null | false | We could not find User ID of:  1 | undefined | undefined
+Idle Legends | idn_1 | false | Get role info failed | undefined | undefined
+Saint Seiya: Awakening | 200_1001 | false | ERROR: -3 Do not have a character on this server! | undefined | undefined
+Wild Hunter: Goddess | 310001 | false | We could not find User ID of:1 | undefined | undefined
+Mahjong Soul | null | true | ID Found | null | undefined
+Yong Heroes | Android-1 | false | User is not valid | undefined | undefined
+Era of Celestials | 1511420001 | false | ERROR: -3 Do not have a character on this server! | undefined | undefined
+The Lord of the Rings: Rise to War | 20301 | false | user not found:user not exist! | undefined | undefined
+Laplace M | null | false | Unable to process validation request. | undefined | undefined
+Crasher Origin | 4001 | false | User is not valid | undefined | undefined
+Cooking Adventure | null | false | Server Error: User Account Validation Failed. Please try again later | undefined | undefined
+Food Fantasy Crystal | 1 | false | User Not Exist | undefined | undefined
+Legends of Runeterra | null | false | The correct Riot ID format is ABC123#ABC | undefined | undefined
+Tamashi: Rise of Yokai | undefined | false | server_id invalid | undefined | undefined
+Path to Nowhere | null | false | user not found | undefined | undefined
+Speed Drifters | null | false | Invalid user ID | undefined | undefined
+The Return of Condor Heroes | 9911 | false | Error, Please contact admin | undefined | 205
+Diablo: Immortal | null | false | User Id invalid | undefined | undefined
+King of Avalon | null | false | ID not founds | undefined | undefined
+Dark Continent: Mist | 360 | true | ID Found | 14447bf7c6a3bc | undefined
+Echocalypse | 2971310028 | false | ERROR: 401 无数据 | undefined | undefined
+Time Raiders | 2985310001 | false | ERROR: 401 无数据 | undefined | undefined
+Elemental Titans: 3D Idle Arena | undefined | false | unable to verify the first certificate | undefined | undefined
+MU ORIGIN 3 | null | false | validate error | undefined | undefined
+Modern Strike Online | null | false | invalid user name | undefined | undefined
+Westward Adventure (梦幻西游网页版) | null | false | user not found:invalid user | undefined | undefined
+Jade Legends: Immortal Realm  | 519 | false | Role not found | undefined | undefined
+Thetan Arena | null | false | The userId is not valid | undefined | undefined
+Phantom Blade: Executioners | null | false | Error, Please contact admin | undefined | 205
+YS 6 Mobile VNG | null | false | Error, Please contact admin | undefined | 205
+Embers: Last Duel | null | false | UNKNOWN | undefined | undefined
+Arena Mania: Magic Heroes | 10000 | false | There is no role under this user account. Please create a role first. | undefined | undefined
+City of Crime: Gang Wars | null | false | userID error | undefined | undefined
+Entropy 2099 | null | false | Pembayaran gagal. Kamu sudah mencapai batas pembelian item ini, coba lagi lain kali. | undefined | undefined
+DEAD TARGET: Zombie Games 3D | null | false | Verify User Failed | undefined | undefined
+Life Makeover | null | false | common error | undefined | undefined
+Bermuda | null | false | Server Error: User Account Validation Failed. Please try again later | undefined | undefined
+Dragon Hunters: Heroes Legends | Android-10001 | false | User is not valid | undefined | undefined
+Girls' Connect | 100001 | false | Server Error: User Account Validation Failed. Please try again later. | undefined | undefined
+Snowbreak: Containment Zone | 235 | false | null | undefined | undefined
+StarMaker | null | false | Invalid user ID | undefined | undefined
+SUGO：Voice Live Chat Party | null | false | Fail, The ID doesn't exist in the APP | undefined | undefined
+Webnovel | null | false | We could not find User ID of: 1 | undefined | undefined
+Vidio | null | false | User not found. | undefined | undefined
+IQIYI | null | false | Invalid user ID | undefined | undefined
+Viu (Direct Top-Up) | null | true | ID Found | 1 | undefined
+Lita | null | false | We could not find User ID of:1 | undefined | undefined
+Likee | null | false | invalid user | undefined | undefined
+Tinder | null | false | Invalid captcha! | undefined | undefined
+Mixu | null | false | 调用用户信息异常 | undefined | undefined
+LivU | null | false | 调用用户信息异常 | undefined | undefined
+Tumile | null | false | 调用用户信息异常 | undefined | undefined
+GOGO LIVE | null | false | Wrong UserID | undefined | undefined
+MeYo | null | false | user is not exist | undefined | undefined
+Turbo VPN | null | true | ID Found | 1 | undefined

@@ -1,0 +1,11 @@
+{
+   "data": [
+      {
+         "id": 5000,
+         "name": "+ 🗨️Olamet Chat",
+         "slug": "olamet-chat",
+         "provider": "olametchat",
+         "isZone": false
+      }
+   ]
+}

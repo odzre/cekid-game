@@ -1,0 +1,11 @@
+{
+   "data": [
+      {
+         "id": 5000,
+         "name": "+ 🗨️Soul Chat",
+         "slug": "soul-chat",
+         "provider": "soulchat",
+         "isZone": false
+      }
+   ]
+}

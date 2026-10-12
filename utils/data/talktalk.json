@@ -1,0 +1,11 @@
+{
+   "data": [
+      {
+         "id": 5000,
+         "name": "+ 🗨️Talk Talk Chat",
+         "slug": "talk-talk-chat",
+         "provider": "talktalk",
+         "isZone": false
+      }
+   ]
+}
