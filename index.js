@@ -43,9 +43,9 @@ if (config.useRateLimiter) {
 app.get('/', (req, res) => {
    return res.json({
       name: 'Cek ID Game',
-      author: 'Achillstore',
+      author: 'odzreshop',
       description:
-         "Hi there, this is cek id game by Achillstore. You can check your game id here. If you don't know how to use it, please check the documentation.",
+         "Hi there, this is cek id game by odzreshop. You can check your game id here. If you don't know how to use it, please check the documentation.",
    });
 });
 
