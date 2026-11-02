@@ -71,8 +71,16 @@ const idCheckController = async (req, res) => {
    const slug = req.params.game;
    const { id, zone, region } = req.query;
 
-   const game = dataGame.find((item) => item.slug === slug);
+   let game = dataGame.find((item) => item.slug === slug);
    if (!game) return res.status(404).json({ status: false, message: 'Game not found' });
+
+   // Mobile Legends via Codashop sering kena limit "Silahkan Coba 5 detik lagi"
+   // dan error 227:invalid sub_pay_channel. Arahkan ke provider GoPay Games.
+   if (slug === 'mobile-legends') {
+      const stableMlbb = dataGame.find((item) => item.slug === 'mobile-legends-gp');
+      if (stableMlbb) game = stableMlbb;
+   }
+
    if (!id) return res.status(400).json({ status: false, message: 'ID is required' });
    if (game.isZone && !zone) return res.status(400).json({ status: false, message: 'Zone is required' });
 

@@ -22,6 +22,40 @@ app.set('views', __dirname + '/public');
 app.use(express.json());
 app.use(cors());
 
+// Cache hasil cek ID yang sukses agar tidak membanjiri provider.
+// Cache hanya di memori instance; cukup untuk mengurangi request berulang.
+const idCheckCache = new Map();
+const ID_CHECK_CACHE_TTL = 30 * 1000;
+
+app.use('/api/game', (req, res, next) => {
+   if (req.method !== 'GET') return next();
+
+   const key = req.originalUrl;
+   const cached = idCheckCache.get(key);
+
+   if (cached && cached.expires > Date.now()) {
+      return res.status(cached.status).json(cached.body);
+   }
+
+   if (cached) idCheckCache.delete(key);
+
+   const originalJson = res.json.bind(res);
+
+   res.json = (body) => {
+      if (res.statusCode === 200 && body?.status === true) {
+         idCheckCache.set(key, {
+            expires: Date.now() + ID_CHECK_CACHE_TTL,
+            status: res.statusCode,
+            body,
+         });
+      }
+
+      return originalJson(body);
+   };
+
+   next();
+});
+
 // Render index.ejs at /test
 app.get('/test', (req, res) => {
    res.render('index');
