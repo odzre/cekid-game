@@ -27,6 +27,18 @@
 
 const axios = require('axios');
 
+const normalizeNotFoundMessage = (message) => {
+   const text = (message || '').trim();
+
+   if (!text) return 'ID not found';
+
+   if (/invalid user account|not recognized|id not found/i.test(text)) {
+      return 'ID not found';
+   }
+
+   return text;
+};
+
 const mlRegionCheck = async (game, id, zone) => {
    try {
       const response = await axios.post(
@@ -71,7 +83,7 @@ const mlRegionCheck = async (game, id, zone) => {
          return {
             code: err.response?.status || 500,
             status: false,
-            message: err.response?.data?.message || 'Error occurred',
+            message: normalizeNotFoundMessage(err.response?.data?.message || 'Error occurred'),
          };
       }
       return { code: 500, status: false, message: 'Internal Server Error, please contact admin' };
@@ -121,7 +133,7 @@ const gopayGamesServices = async (game, id = null, zone = null) => {
          return {
             code: err.response?.status || 500,
             status: false,
-            message: err.response?.data?.message || 'Error occurred',
+            message: normalizeNotFoundMessage(err.response?.data?.message || 'Error occurred'),
          };
       }
       return { code: 500, status: false, message: 'Internal Server Error, please contact admin' };
