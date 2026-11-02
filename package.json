@@ -17,7 +17,7 @@
       "id",
       "game"
    ],
-   "author": "Rizqi Bagus Andrean",
+   "author": "odzreshop",
    "license": "ISC",
    "dependencies": {
       "@scalar/express-api-reference": "^0.5.0",

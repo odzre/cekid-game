@@ -100,7 +100,7 @@ app.use('/api-reference', async (req, res, next) => {
 app.get('/list-game', (req, res) => {
    return res.json({
       name: 'Cek Data Game',
-      author: 'Achillstore',
+      author: 'odzreshop',
       data: formatedDataGame,
    });
 });
@@ -109,11 +109,11 @@ app.get('/openapi', (req, res) => {
    return res.status(200).json({
       openapi: '3.0.0',
       info: {
-         title: 'Cek ID Game by Achillstore',
+         title: 'Cek ID Game by odzreshop',
          version: '1.0.0',
          description: `This is cek id game`,
          contact: {
-            name: 'Achillstore',
+            name: 'odzreshop',
          },
       },
       paths: {
