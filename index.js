@@ -25,7 +25,7 @@ app.use(cors());
 // Cache hasil cek ID yang sukses agar tidak membanjiri provider.
 // Cache hanya di memori instance; cukup untuk mengurangi request berulang.
 const idCheckCache = new Map();
-const ID_CHECK_CACHE_TTL = 30 * 1000;
+const ID_CHECK_CACHE_TTL = 5 * 60 * 1000;
 
 app.use('/api/game', (req, res, next) => {
    if (req.method !== 'GET') return next();
